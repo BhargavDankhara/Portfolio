@@ -20,7 +20,7 @@ export const gridItems = [
     id: 2,
     title: "I'm very flexible with time zone communications",
     description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+    className: "lg:col-span-3 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
     img: "",
@@ -70,7 +70,6 @@ export const gridItems = [
 ];
 
 export const projects = [
-
   {
     id: 1,
     title: "Animated Apple Iphone 3D Website",
@@ -78,15 +77,25 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "",
-  }, {
+  },
+  {
     id: 2,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "",
-  }, {
+  },
+  {
     id: 3,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "",
+  },
+  {
+    id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
@@ -171,7 +180,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Frontend Engineer Intern",
+    title: "Mobile App Dev - JSM Tech",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
@@ -180,7 +189,7 @@ export const workExperience = [
     id: 3,
     title: "Freelance App Dev Project",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2",
+    className: "md:col-span-2", 
     thumbnail: "/exp3.svg",
   },
   {
