@@ -12,7 +12,7 @@ const Grid = () => {
                         key={id}
                         title={title}
                         description={description}
-                        // className={className}
+                        className={className}
                         img={img}
                         imgClassName={imgClassName}
                         titleClassName={titleClassName}
