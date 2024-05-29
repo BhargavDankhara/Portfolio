@@ -72,10 +72,10 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Morden UI/UX Web Designe",
+    des: "Created a sinle page website trying to show case morder UI/UX, combining tailwindCSS and some usefull React library",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg"],
     link: "",
   },
   {
