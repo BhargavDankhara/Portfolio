@@ -107,48 +107,48 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Bhargav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bhargav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bhargav is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+    name: " Sundar Pichai",
+    title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-      "Collaborating with Bhargav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bhargav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bhargav is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+    name: " Sundar Pichai",
+    title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-      "Collaborating with Bhargav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bhargav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bhargav is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+    name: " Sundar Pichai",
+    title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-      "Collaborating with Bhargav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bhargav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bhargav is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+    name: " Sundar Pichai",
+    title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-      "Collaborating with Bhargav was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Bhargav's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Bhargav is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+    name: " Sundar Pichai",
+    title: "CEO Google (IIT Kharagpur alumnus)",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "HOSTINGER",
+    img: "/host.svg",
+    nameImg: "/hostName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "HOSTINGER",
+    img: "/host.svg",
+    nameImg: "/hostName.svg",
   },
   {
     id: 3,
@@ -158,15 +158,15 @@ export const companies = [
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "HOSTINGER",
+    img: "/host.svg",
+    nameImg: "/hostName.svg",
   },
   {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "HOSTINGER",
+    img: "/host.svg",
+    nameImg: "/hostName.svg",
   },
 ];
 
