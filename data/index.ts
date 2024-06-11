@@ -76,7 +76,7 @@ export const projects = [
     des: "Created a sinle page website trying to show case morder UI/UX, combining tailwindCSS and some usefull React library",
     img: "/p4.svg",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "",
+    link: "https://brainwave-wine.vercel.app/",
   },
   {
     id: 2,
