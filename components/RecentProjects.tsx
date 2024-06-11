@@ -13,7 +13,7 @@ const RecentProjects = () => {
             <div className='flex flex-wrap items-center justify-center gap-x-24 gap-y-8 mt-10 py-4'>
                 {projects.map(({ id, title, des, img, iconLists, link }) => (
                     <div key={id} className='lg:min-h-[32.5rem] h-[32rem] flex items-center justify-center sm:w-[570px] w-[80vw] sm:h-[41rem] ]'>
-                        <PinContainer title={link} href={link}> {/*title when hover over the card*/}
+                        <PinContainer title={link} href="https://brainwave-wine.vercel.app/"> {/*title when hover over the card*/}
                             <div className='relative flex items-center justify-center sm:w-[570px] w-[80vw] sm:h-[40vh] h-[30vh] overflow-hidden h-[20vh mb-10'>
                                 <div className='relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]'>
                                     <img src="/bg.png" alt="bg" />
