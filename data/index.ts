@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Morden UI/UX Web Designe",
     des: "Created a sinle page website trying to show case morder UI/UX, combining tailwindCSS and some usefull React library",
-    img: "/p4.svg",
+    img: "/brain.svg",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://brainwave-wine.vercel.app/",
   },
@@ -82,9 +82,9 @@ export const projects = [
     id: 2,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    img: "/iphone.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "",
+    link: "https://clone-iphone-15.vercel.app/",
   },
   {
     id: 3,
@@ -107,25 +107,25 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+      "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
     name: " Sundar Pichai",
     title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+      "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
     name: " Sundar Pichai",
     title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+      "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
     name: " Sundar Pichai",
     title: "CEO Google (IIT Kharagpur alumnus)",
   },
   {
     quote:
-    "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
+      "Bhargav Dankhara transformed our website beyond our expectations. Their technical skills, creative vision, and attention to detail resulted in a beautiful and user-friendly site. Communication was seamless throughout the project, and they met every deadline. We’ve received fantastic feedback from our clients and seen a noticeable boost in engagement. I highly recommend Bhargav Dankhara for any web development needs.",
     name: " Sundar Pichai",
     title: "CEO Google (IIT Kharagpur alumnus)",
   },
@@ -189,7 +189,7 @@ export const workExperience = [
     id: 3,
     title: "Freelance App Dev Project",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", 
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
