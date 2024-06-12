@@ -31,11 +31,11 @@ const Hero = () => {
                         Hi, I&apos;m Bhargav, a Web Developer based in India
                     </p>
 
-                    <a href="#about">
-                        <MagicButton 
-                        title='Show my work'
-                        icon={<FaLocationArrow />}
-                        position='right'
+                    <a href="https://drive.google.com/file/d/1aDRE9CvY1RPxEqf0LFxruvktKuodrogY/view?usp=drive_link">
+                        <MagicButton
+                            title='My Resume'
+                            icon={<FaLocationArrow />}
+                            position='right'
                         />
                     </a>
                 </div>
