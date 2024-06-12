@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building an Iphone 15 Clone",
+    title: "Currently building an Eats.com Full Stack Project",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -88,19 +88,19 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "",
+    title: "Eats.com_frontend (Early Stage)",
+    des: "The frontend of an e-commerce food app provides a user-friendly interface, featuring vibrant images and intuitive navigation. Key elements include categorized menus, detailed product listings, and an easy-to-use cart and checkout process. Users can create and manage accounts, view order history, and track deliveries. The responsive design ensures accessibility across devices, while interactive features and secure payment options enhance the shopping experience.",
+    img: "/",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/sadcn.png"],
+    link: "https://github.com/BhargavDankhara/Eats.App_frontend.git",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "",
+    title: "Eats.com_backend (Early Stage)",
+    des: "The backend of an e-commerce food app handles database management, APIs, and user authentication to ensure secure and efficient operations. It manages order processing, payment transactions, inventory updates, and user data. Scalability and performance optimizations ensure the app can handle high traffic, while robust security measures protect sensitive information. This backbone supports a seamless and reliable user experience.",
+    img: "/",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongo.png", "/stripe.png"],
+    link: "https://github.com/BhargavDankhara/Eats.App_backend.git",
   },
 ];
 
